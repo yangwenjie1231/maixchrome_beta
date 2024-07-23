@@ -1,0 +1,8 @@
+id: maixchrome_beta
+name: maixchrome_beta
+version: 0.1.0
+author: ywj
+icon: app.png
+desc: maixpy浏览器Beta版
+files:
+  - main.py
