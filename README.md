@@ -1,4 +1,8 @@
-# maixchrome_beta
+# 提示
+目前只能显示网页而无法交互
+# 相关信息
+源码地址：[https://github.com/yangwenjie1231/maixchrome_beta](https://github.com/yangwenjie1231/maixchrome_beta)
+代码注释：[https://maixhub.com/share/41](https://maixhub.com/share/41)
 # 使用方法
 ## 初始界面
 ![](https://maixhub.com/public/application/24278-de5b68f1aa0843329eb3ce3b1b01f55d.png)
